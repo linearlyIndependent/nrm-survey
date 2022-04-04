@@ -26,7 +26,7 @@ objects:
       source:
         type: Git
         git:
-          uri: https://github.com/garywong-bc/nrm-survey
+          uri: https://github.com/linearlyIndependent/nrm-survey
         contextDir: backend
       strategy:
         type: Docker
